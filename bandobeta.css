@@ -57,6 +57,9 @@
    background-image: url(https://i.imgur.com/sRUWceh.png);
    position: relative;
    visibility: visible;
+          -webkit-transition: all 1s ease;
+   -o-transition: all 1s ease;
+   -moz-transition: all 1s ease;
    z-index: 1;
  }
  
@@ -91,7 +94,7 @@
    heigth: 280px;
    min-width:500px;
    min-height:280px;
-   background-image: url(https://i.imgur.com/FFqYN2g.png);
+   background-image: url(https://i.imgur.com/foqmj4S.png);
    position: relative;
    z-index: 1;
  }
