@@ -26,10 +26,10 @@
 
 
  .player2 {
-   width: 520px;
-   heigth: 430px;
-   min-width:520px;
-   min-height:430px;
+   width: 500px;
+   heigth: 400px;
+   min-width:500px;
+   min-height:400px;
    background-image: url(https://i.imgur.com/4ScQDyw.png);
    position: relative;
    visibility: visible;
@@ -43,9 +43,9 @@
  
  .player2:hover {
    width: 500px;
-   heigth: 280px;
+   heigth: 400px;
    min-width:500px;
-   min-height:280px;
+   min-height:400px;
    background-image: url(https://i.imgur.com/5DJmkPD.png);
    position: relative;
    z-index: 1;
@@ -53,10 +53,10 @@
 
 
  .player3 {
-   width: 520px;
-   heigth: 430px;
-   min-width:520px;
-   min-height:430px;
+   width: 500px;
+   heigth: 400px;
+   min-width:500px;
+   min-height:400px;
    background-image: url(https://i.imgur.com/8poQPh5.png);
    position: relative;
    visibility: visible;
@@ -70,9 +70,9 @@
  
  .player3:hover {
    width: 500px;
-   heigth: 280px;
+   heigth: 400px;
    min-width:500px;
-   min-height:280px;
+   min-height:400px;
    background-image: url(https://i.imgur.com/WS2yCsH.png);
    position: relative;
    z-index: 1;
@@ -80,11 +80,11 @@
 
 
  .player4 {
-   width: 520px;
-   heigth: 430px;
-   min-width:520px;
-   min-height:430px;
-   background-image: url(https://i.imgur.com/owOnfST.png);
+   width: 500px;
+   heigth: 400px;
+   min-width:500px;
+   min-height:400px;
+   background-image: url(https://i.imgur.com/mcFw2F9.png);
    position: relative;
    visibility: visible;
           -webkit-transition: all 1s ease;
@@ -97,9 +97,9 @@
  
  .player4:hover {
    width: 500px;
-   heigth: 280px;
+   heigth: 400px;
    min-width:500px;
-   min-height:280px;
+   min-height:400px;
    background-image: url(https://i.imgur.com/zC8aIrY.png);
    position: relative;
    z-index: 1;
