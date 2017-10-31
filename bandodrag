@@ -1,6 +1,6 @@
  .player1 {
-   width: 520px;
-   heigth: 430px;
+   width: 500px;
+   heigth: 400px;
    min-width:500px;
    min-height:400px;
    background-image: url(https://i.imgur.com/ZoyTdcy.png);
@@ -15,8 +15,8 @@
 
  
  .player1:hover {
-   width: 520px;
-   heigth: 430px;
+   width: 500px;
+   heigth: 400px;
    min-width:500px;
    min-height:400px;
    background-image: url(https://i.imgur.com/V1k3Qyh.png);
@@ -26,11 +26,11 @@
 
 
  .player2 {
-   width: 520px;
-   heigth: 430px;
+   width: 500px;
+   heigth: 400px;
    min-width:500px;
    min-height:400px;
-   background-image: url(https://i.imgur.com/4ScQDyw.png);
+   background-image: url(https://i.imgur.com/0S5eTJe.png);
    position: relative;
    visibility: visible;
           -webkit-transition: all 1s ease;
@@ -42,8 +42,8 @@
 
  
  .player2:hover {
-   width: 520px;
-   heigth: 430px;
+   width: 500px;
+   heigth: 400px;
    min-width:500px;
    min-height:400px;
    background-image: url(https://i.imgur.com/5DJmkPD.png);
@@ -53,11 +53,11 @@
 
 
  .player3 {
-   width: 520px;
-   heigth: 430px;
+   width: 500px;
+   heigth: 400px;
    min-width:500px;
    min-height:400px;
-   background-image: url(https://i.imgur.com/8poQPh5.png);
+   background-image: url(https://i.imgur.com/Sz65OZQ.png);
    position: relative;
    visibility: visible;
         -webkit-transition: all 1s ease;
@@ -69,8 +69,8 @@
 
  
  .player3:hover {
-   width: 520px;
-   heigth: 430px;
+   width: 500px;
+   heigth: 400px;
    min-width:500px;
    min-height:400px;
    background-image: url(https://i.imgur.com/WS2yCsH.png);
@@ -80,11 +80,11 @@
 
 
  .player4 {
-   width: 520px;
-   heigth: 430px;
+   width: 500px;
+   heigth: 400px;
    min-width:500px;
    min-height:400px;
-   background-image: url(https://i.imgur.com/mcFw2F9.png);
+   background-image: url(https://i.imgur.com/ejccGC0.png);
    position: relative;
    visibility: visible;
           -webkit-transition: all 1s ease;
@@ -96,8 +96,8 @@
 
  
  .player4:hover {
-   width: 520px;
-   heigth: 430px;
+   width: 500px;
+   heigth: 400px;
    min-width:500px;
    min-height:400px;
    background-image: url(https://i.imgur.com/zC8aIrY.png);
